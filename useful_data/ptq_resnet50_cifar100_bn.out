@@ -1,0 +1,9 @@
+Accuracy of the original FP32 model: 74.35%
+Accuracy of the quantized model (8-bit): 73.75%
+Accuracy of the quantized model (7-bit): 73.76%
+Accuracy of the quantized model (6-bit): 69.02%
+Accuracy of the quantized model (5-bit): 67.37%
+Accuracy of the quantized model (4-bit): 1.25%
+Accuracy of the quantized model (3-bit): 1.00%
+Accuracy of the quantized model (2-bit): 1.00%
+Accuracy of the quantized model (1-bit): 1.00%

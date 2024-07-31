@@ -1,0 +1,121 @@
+Files already downloaded and verified,Model,Dataset
+Files already downloaded and verified,/mnt/data/eval,resnet18
+Epoch1: Accuracy on CIFAR-10 test set: 86.82%,/mnt/data/eval,resnet18
+Epoch2: Accuracy on CIFAR-10 test set: 86.01%,/mnt/data/eval,resnet18
+Epoch3: Accuracy on CIFAR-10 test set: 88.12%,/mnt/data/eval,resnet18
+Epoch4: Accuracy on CIFAR-10 test set: 89.79%,/mnt/data/eval,resnet18
+Epoch5: Accuracy on CIFAR-10 test set: 88.37%,/mnt/data/eval,resnet18
+Epoch6: Accuracy on CIFAR-10 test set: 90.84%,/mnt/data/eval,resnet18
+Epoch7: Accuracy on CIFAR-10 test set: 90.75%,/mnt/data/eval,resnet18
+Epoch8: Accuracy on CIFAR-10 test set: 91.29%,/mnt/data/eval,resnet18
+Epoch9: Accuracy on CIFAR-10 test set: 89.81%,/mnt/data/eval,resnet18
+Epoch10: Accuracy on CIFAR-10 test set: 89.77%,/mnt/data/eval,resnet18
+Accuracy on CIFAR-10 test set: 89.77%,/mnt/data/eval,resnet18
+Files already downloaded and verified,/mnt/data/eval,resnet18
+Epoch1: Accuracy on CIFAR-100 test set: 61.13%,/mnt/data/eval,resnet18
+Epoch2: Accuracy on CIFAR-100 test set: 64.59%,/mnt/data/eval,resnet18
+Epoch3: Accuracy on CIFAR-100 test set: 66.79%,/mnt/data/eval,resnet18
+Epoch4: Accuracy on CIFAR-100 test set: 69.15%,/mnt/data/eval,resnet18
+Epoch5: Accuracy on CIFAR-100 test set: 70.20%,/mnt/data/eval,resnet18
+Epoch6: Accuracy on CIFAR-100 test set: 69.74%,/mnt/data/eval,resnet18
+Epoch7: Accuracy on CIFAR-100 test set: 68.97%,/mnt/data/eval,resnet18
+Epoch8: Accuracy on CIFAR-100 test set: 70.25%,/mnt/data/eval,resnet18
+Epoch9: Accuracy on CIFAR-100 test set: 68.88%,/mnt/data/eval,resnet18
+Epoch10: Accuracy on CIFAR-100 test set: 69.61%,/mnt/data/eval,resnet18
+Accuracy on CIFAR-100 test set: 69.61%,/mnt/data/eval,resnet18
+Files already downloaded and verified,/mnt/data/eval,resnet34
+Epoch1: Accuracy on CIFAR-10 test set: 86.47%,/mnt/data/eval,resnet34
+Epoch2: Accuracy on CIFAR-10 test set: 88.18%,/mnt/data/eval,resnet34
+Epoch3: Accuracy on CIFAR-10 test set: 90.64%,/mnt/data/eval,resnet34
+Epoch4: Accuracy on CIFAR-10 test set: 90.20%,/mnt/data/eval,resnet34
+Epoch5: Accuracy on CIFAR-10 test set: 90.34%,/mnt/data/eval,resnet34
+Epoch6: Accuracy on CIFAR-10 test set: 90.35%,/mnt/data/eval,resnet34
+Epoch7: Accuracy on CIFAR-10 test set: 89.97%,/mnt/data/eval,resnet34
+Epoch8: Accuracy on CIFAR-10 test set: 90.51%,/mnt/data/eval,resnet34
+Epoch9: Accuracy on CIFAR-10 test set: 90.55%,/mnt/data/eval,resnet34
+Epoch10: Accuracy on CIFAR-10 test set: 91.15%,/mnt/data/eval,resnet34
+Accuracy on CIFAR-10 test set: 91.15%,/mnt/data/eval,resnet34
+Files already downloaded and verified,/mnt/data/eval,resnet34
+Epoch1: Accuracy on CIFAR-100 test set: 57.25%,/mnt/data/eval,resnet34
+Epoch2: Accuracy on CIFAR-100 test set: 62.95%,/mnt/data/eval,resnet34
+Epoch3: Accuracy on CIFAR-100 test set: 65.26%,/mnt/data/eval,resnet34
+Epoch4: Accuracy on CIFAR-100 test set: 63.99%,/mnt/data/eval,resnet34
+Epoch5: Accuracy on CIFAR-100 test set: 69.00%,/mnt/data/eval,resnet34
+Epoch6: Accuracy on CIFAR-100 test set: 68.92%,/mnt/data/eval,resnet34
+Epoch7: Accuracy on CIFAR-100 test set: 68.68%,/mnt/data/eval,resnet34
+Epoch8: Accuracy on CIFAR-100 test set: 69.45%,/mnt/data/eval,resnet34
+Epoch9: Accuracy on CIFAR-100 test set: 68.67%,/mnt/data/eval,resnet34
+Epoch10: Accuracy on CIFAR-100 test set: 68.36%,/mnt/data/eval,resnet34
+Accuracy on CIFAR-100 test set: 68.36%,/mnt/data/eval,resnet34
+Files already downloaded and verified,/mnt/data/eval,resnet50
+Epoch1: Accuracy on CIFAR-10 test set: 87.27%,/mnt/data/eval,resnet50
+Epoch2: Accuracy on CIFAR-10 test set: 90.59%,/mnt/data/eval,resnet50
+Epoch3: Accuracy on CIFAR-10 test set: 90.21%,/mnt/data/eval,resnet50
+Epoch4: Accuracy on CIFAR-10 test set: 90.18%,/mnt/data/eval,resnet50
+Epoch5: Accuracy on CIFAR-10 test set: 91.58%,/mnt/data/eval,resnet50
+Epoch6: Accuracy on CIFAR-10 test set: 91.82%,/mnt/data/eval,resnet50
+Epoch7: Accuracy on CIFAR-10 test set: 92.41%,/mnt/data/eval,resnet50
+Epoch8: Accuracy on CIFAR-10 test set: 92.56%,/mnt/data/eval,resnet50
+Epoch9: Accuracy on CIFAR-10 test set: 91.79%,/mnt/data/eval,resnet50
+Epoch10: Accuracy on CIFAR-10 test set: 92.32%,/mnt/data/eval,resnet50
+Accuracy on CIFAR-10 test set: 92.32%,/mnt/data/eval,resnet50
+Files already downloaded and verified,/mnt/data/eval,resnet50
+Epoch1: Accuracy on CIFAR-100 test set: 65.70%,/mnt/data/eval,resnet50
+Epoch2: Accuracy on CIFAR-100 test set: 71.05%,/mnt/data/eval,resnet50
+Epoch3: Accuracy on CIFAR-100 test set: 70.42%,/mnt/data/eval,resnet50
+Epoch4: Accuracy on CIFAR-100 test set: 72.15%,/mnt/data/eval,resnet50
+Epoch5: Accuracy on CIFAR-100 test set: 73.32%,/mnt/data/eval,resnet50
+Epoch6: Accuracy on CIFAR-100 test set: 74.44%,/mnt/data/eval,resnet50
+Epoch7: Accuracy on CIFAR-100 test set: 72.80%,/mnt/data/eval,resnet50
+Epoch8: Accuracy on CIFAR-100 test set: 73.57%,/mnt/data/eval,resnet50
+Epoch9: Accuracy on CIFAR-100 test set: 74.13%,/mnt/data/eval,resnet50
+Epoch10: Accuracy on CIFAR-100 test set: 74.35%,/mnt/data/eval,resnet50
+Accuracy on CIFAR-100 test set: 74.35%,/mnt/data/eval,resnet50
+Files already downloaded and verified,/mnt/data/eval,resnet101
+Epoch1: Accuracy on CIFAR-10 test set: 87.91%,/mnt/data/eval,resnet101
+Epoch2: Accuracy on CIFAR-10 test set: 91.25%,/mnt/data/eval,resnet101
+Epoch3: Accuracy on CIFAR-10 test set: 90.03%,/mnt/data/eval,resnet101
+Epoch4: Accuracy on CIFAR-10 test set: 92.14%,/mnt/data/eval,resnet101
+Epoch5: Accuracy on CIFAR-10 test set: 90.19%,/mnt/data/eval,resnet101
+Epoch6: Accuracy on CIFAR-10 test set: 92.92%,/mnt/data/eval,resnet101
+Epoch7: Accuracy on CIFAR-10 test set: 91.31%,/mnt/data/eval,resnet101
+Epoch8: Accuracy on CIFAR-10 test set: 91.28%,/mnt/data/eval,resnet101
+Epoch9: Accuracy on CIFAR-10 test set: 90.63%,/mnt/data/eval,resnet101
+Epoch10: Accuracy on CIFAR-10 test set: 92.09%,/mnt/data/eval,resnet101
+Accuracy on CIFAR-10 test set: 92.09%,/mnt/data/eval,resnet101
+Files already downloaded and verified,/mnt/data/eval,resnet101
+Epoch1: Accuracy on CIFAR-100 test set: 65.87%,/mnt/data/eval,resnet101
+Epoch2: Accuracy on CIFAR-100 test set: 70.12%,/mnt/data/eval,resnet101
+Epoch3: Accuracy on CIFAR-100 test set: 71.83%,/mnt/data/eval,resnet101
+Epoch4: Accuracy on CIFAR-100 test set: 73.86%,/mnt/data/eval,resnet101
+Epoch5: Accuracy on CIFAR-100 test set: 73.78%,/mnt/data/eval,resnet101
+Epoch6: Accuracy on CIFAR-100 test set: 76.16%,/mnt/data/eval,resnet101
+Epoch7: Accuracy on CIFAR-100 test set: 74.44%,/mnt/data/eval,resnet101
+Epoch8: Accuracy on CIFAR-100 test set: 73.95%,/mnt/data/eval,resnet101
+Epoch9: Accuracy on CIFAR-100 test set: 76.41%,/mnt/data/eval,resnet101
+Epoch10: Accuracy on CIFAR-100 test set: 73.54%,/mnt/data/eval,resnet101
+Accuracy on CIFAR-100 test set: 73.54%,/mnt/data/eval,resnet101
+Files already downloaded and verified,/mnt/data/eval,resnet152
+Epoch1: Accuracy on CIFAR-10 test set: 86.40%,/mnt/data/eval,resnet152
+Epoch2: Accuracy on CIFAR-10 test set: 89.17%,/mnt/data/eval,resnet152
+Epoch3: Accuracy on CIFAR-10 test set: 90.87%,/mnt/data/eval,resnet152
+Epoch4: Accuracy on CIFAR-10 test set: 91.50%,/mnt/data/eval,resnet152
+Epoch5: Accuracy on CIFAR-10 test set: 90.08%,/mnt/data/eval,resnet152
+Epoch6: Accuracy on CIFAR-10 test set: 90.75%,/mnt/data/eval,resnet152
+Epoch7: Accuracy on CIFAR-10 test set: 90.55%,/mnt/data/eval,resnet152
+Epoch8: Accuracy on CIFAR-10 test set: 91.55%,/mnt/data/eval,resnet152
+Epoch9: Accuracy on CIFAR-10 test set: 91.32%,/mnt/data/eval,resnet152
+Epoch10: Accuracy on CIFAR-10 test set: 92.35%,/mnt/data/eval,resnet152
+Accuracy on CIFAR-10 test set: 92.35%,/mnt/data/eval,resnet152
+Files already downloaded and verified,/mnt/data/eval,resnet152
+Epoch1: Accuracy on CIFAR-100 test set: 65.02%,/mnt/data/eval,resnet152
+Epoch2: Accuracy on CIFAR-100 test set: 69.34%,/mnt/data/eval,resnet152
+Epoch3: Accuracy on CIFAR-100 test set: 72.14%,/mnt/data/eval,resnet152
+Epoch4: Accuracy on CIFAR-100 test set: 74.54%,/mnt/data/eval,resnet152
+Epoch5: Accuracy on CIFAR-100 test set: 73.23%,/mnt/data/eval,resnet152
+Epoch6: Accuracy on CIFAR-100 test set: 73.35%,/mnt/data/eval,resnet152
+Epoch7: Accuracy on CIFAR-100 test set: 74.17%,/mnt/data/eval,resnet152
+Epoch8: Accuracy on CIFAR-100 test set: 73.69%,/mnt/data/eval,resnet152
+Epoch9: Accuracy on CIFAR-100 test set: 75.42%,/mnt/data/eval,resnet152
+Epoch10: Accuracy on CIFAR-100 test set: 74.46%,/mnt/data/eval,resnet152
+Accuracy on CIFAR-100 test set: 74.46%,/mnt/data/eval,resnet152
